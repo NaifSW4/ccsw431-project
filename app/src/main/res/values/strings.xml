@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">course_project</string>
+    <string name="bl">BeLinked</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="hotmail">\@hotmail.com</string>
+    <string name="bySigningUp">By signing up, you are agree with our<a href="">\t\t Terms &amp; \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t Conditions</a></string>
+    <string name="ForgetPassword"><a href="">Forget password ?</a></string>
+    <string id="" name="newAccount"><a href="">New account ? </a></string>
+</resources>

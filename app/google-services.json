@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "403449941175",
+    "firebase_url": "https://course-projectt-default-rtdb.firebaseio.com",
+    "project_id": "course-projectt",
+    "storage_bucket": "course-projectt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403449941175:android:031d9914a715df45709132",
+        "android_client_info": {
+          "package_name": "com.example.ccsw_431_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403449941175-f3qnqml1bs8iaqfnii3i12aq9vjtl2aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK4ka2GQpNY8Zs74iOykJdhDZ45ODpiw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403449941175-f3qnqml1bs8iaqfnii3i12aq9vjtl2aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403449941175:android:8391b900729f4d15709132",
+        "android_client_info": {
+          "package_name": "com.example.course_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403449941175-f3qnqml1bs8iaqfnii3i12aq9vjtl2aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK4ka2GQpNY8Zs74iOykJdhDZ45ODpiw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403449941175-f3qnqml1bs8iaqfnii3i12aq9vjtl2aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403449941175:android:0a2922d6175506ea709132",
+        "android_client_info": {
+          "package_name": "com.example.course_projectt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403449941175-f3qnqml1bs8iaqfnii3i12aq9vjtl2aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK4ka2GQpNY8Zs74iOykJdhDZ45ODpiw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403449941175-f3qnqml1bs8iaqfnii3i12aq9vjtl2aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
